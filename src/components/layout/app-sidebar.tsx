@@ -30,7 +30,7 @@ export function AppSidebar() {
         <div className="flex items-center gap-2">
           <LogoIcon className="h-8 w-8 text-sidebar-primary group-data-[collapsible=icon]:mx-auto" />
           <span className="text-lg font-semibold text-sidebar-primary group-data-[collapsible=icon]:hidden">
-            Central 193
+            Hermes
           </span>
         </div>
       </SidebarHeader>

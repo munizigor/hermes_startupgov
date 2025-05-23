@@ -13,7 +13,7 @@ const fontSans = FontSans({
 });
 
 export const metadata: Metadata = {
-  title: 'Central de Atendimento 193',
+  title: 'Hermes',
   description: 'Plataforma de Gerenciamento de Chamadas de Emergência',
 };
 

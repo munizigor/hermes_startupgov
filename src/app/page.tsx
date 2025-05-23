@@ -116,7 +116,7 @@ export default function DashboardPage() {
 
   return (
     <div className="flex flex-col h-full">
-      <PageHeader title="Painel de Atendimento de Chamadas" description="Gerencie chamadas de emergência em tempo real." />
+      <PageHeader title="Hermes" description="Inteligência Artificial para chamadas de emergência" />
       <div className="grid md:grid-cols-2 gap-6 flex-1 p-4 md:p-6 overflow-y-auto">
         {/* Left Column */}
         <div className="flex flex-col gap-6">

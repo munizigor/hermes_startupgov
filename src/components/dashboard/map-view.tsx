@@ -86,7 +86,7 @@ export function MapView({ address }: MapViewProps) {
         <Map
           center={center}
           zoom={zoom}
-          mapId="central-193-map"
+          mapId="hermes-map"
           gestureHandling={'greedy'}
           disableDefaultUI={true}
           className="flex-grow" // Make map take available space

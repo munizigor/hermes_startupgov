@@ -9,7 +9,7 @@ export function AppHeader() {
       <div className="flex items-center gap-2">
         <SidebarTrigger className="lg:hidden" />
         <LogoIcon className="h-8 w-8 text-primary" />
-        <h1 className="text-xl font-semibold text-primary">Central de Atendimento 193</h1>
+        <h1 className="text-xl font-semibold text-primary">SINESP CAD</h1>
       </div>
       <div className="ml-auto">
         <Button variant="ghost" size="icon">
